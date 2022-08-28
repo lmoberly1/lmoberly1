@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi, I'm Luke 👋
+
+#### ... a CS student at Stanford and CEO at Bumper Investing...
+- 💻 Website: www.lmoberly1.github.io
+- 🌱 I recently completed the intense - but amazing! - Data Science bootcamp at Le Wagon
+- 🚀 I shoot off model and high-powered rockets in my freetime (and hold two national records)
+- 🐶 Hug fan of my dog, a yellow lab named Sampson
+
+#### ... connect with me
+- [LinkedIn] (https://www.linkedin.com/in/lukemoberly/)
 
 <!--
 **lmoberly1/lmoberly1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
