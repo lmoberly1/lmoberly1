@@ -7,7 +7,7 @@
 - 🐶 Hug fan of my dog, a yellow lab named Sampson
 
 #### ... connect with me
-- [LinkedIn] (https://www.linkedin.com/in/lukemoberly/)
+- [LinkedIn](https://www.linkedin.com/in/lukemoberly/)
 
 <!--
 **lmoberly1/lmoberly1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
