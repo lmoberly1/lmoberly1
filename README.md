@@ -6,6 +6,12 @@
 - 🚀 I shoot off model and high-powered rockets in my freetime (and hold two national records!)
 - 🐶 Hug fan of my dog, a yellow lab named Sampson
 
+#### ... check out my project websites
+- [Bumper Investing](www.joinbumper.com)
+- [Llama Launch](https://apps.apple.com/us/app/llama-launch/id1516027799)
+- [American Failure](www.americanfailure.org)
+- [London Emotion](www.londonemotion.io)
+
 #### ... connect with me
 - [LinkedIn](https://www.linkedin.com/in/lukemoberly/)
 
