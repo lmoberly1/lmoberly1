@@ -3,7 +3,7 @@
 #### ... a CS student at Stanford and CEO at Bumper Investing...
 - 💻 Website: www.lmoberly1.github.io
 - 🌱 I recently completed the intense - but amazing! - Data Science bootcamp at Le Wagon
-- 🚀 I shoot off model and high-powered rockets in my freetime (and hold two national records)
+- 🚀 I shoot off model and high-powered rockets in my freetime (and hold two national records!)
 - 🐶 Hug fan of my dog, a yellow lab named Sampson
 
 #### ... connect with me
