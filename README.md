@@ -7,10 +7,10 @@
 - 🐶 Hug fan of my dog, a yellow lab named Sampson
 
 #### ... check out my project websites
-- [Bumper Investing](www.joinbumper.com)
+- [Bumper Investing](https://www.joinbumper.com)
 - [Llama Launch](https://apps.apple.com/us/app/llama-launch/id1516027799)
-- [American Failure](www.americanfailure.org)
-- [London Emotion](www.londonemotion.io)
+- [American Failure](https://www.americanfailure.org)
+- [London Emotion](https://www.londonemotion.io)
 
 #### ... connect with me
 - [LinkedIn](https://www.linkedin.com/in/lukemoberly/)
