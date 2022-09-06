@@ -10,7 +10,7 @@
 - [Bumper Investing](https://www.joinbumper.com)
 - [Llama Launch](https://apps.apple.com/us/app/llama-launch/id1516027799)
 - [American Failure](https://www.americanfailure.org)
-- [London Emotion](https://www.londonemotion.io)
+- [London Emotion - NLP Sentiment Analysis Tool](https://lmoberly1-emotion-analysis-emotionapp2-rkvyl6.streamlitapp.com/)
 
 #### ... connect with me
 - [LinkedIn](https://www.linkedin.com/in/lukemoberly/)
