@@ -1,8 +1,8 @@
 ### Hi, I'm Luke 👋
 
-#### ... a CS student at Stanford and CEO at Bumper Investing
+#### ... a CS student at Stanford, former founder of Bumper, and APM at Hudl
 - 💻 Website: https://lukemoberly.com/
-- 🌱 I recently completed the intense - but amazing! - Data Science bootcamp at Le Wagon
+- 🌱 I recently completed the intense - but amazing! - AI/ML bootcamp at Le Wagon
 - 🚀 I shoot off model and high-powered rockets in my freetime (and hold two national records!)
 - 🐶 Hug fan of my dog, a yellow lab named Sampson
 
